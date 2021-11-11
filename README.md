@@ -3,7 +3,7 @@
 
 - 🔭 I am a Ph.D. candidate in Social Anthropology at the University of Cambridge (https://www.socanth.cam.ac.uk/staff/xin-zhan-2020). I am currently doing research about tech work and the tech industry funded by the William Wyse Scholarship. I am highly skilled in qualitative research, interviewing, and academic writing. Along with these skills from my academic training, I have also completed a data science course at Le Wagon, where I am trained in data science, machine learning, and deep learning. 
 
-My research is an attempt to build a bridge of understanding between the tech and the non-tech world. I am hoping to create an intersection where technology meets anthropology. What could be the combination of making software and studying people? I am trying to find out and looking for people to join me.
+My research interests include: technology for good, AI ethics, digital inclusion, job creation, augmented workforce, human-machine collaboration and job quality improvement.
 
 - 📫 How to reach me **xz434@cam.ac.uk**
 
