@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xin Zhan</h1>
 <h3 align="center">A social anthropologist and a data scientist</h3>
 
-- 🔭 I’m currently working on [a research about tech industry](https://www.socanth.cam.ac.uk/staff/xin-zhan-2020)
-- I am doing a Ph.D. in Social Anthropology at the University of Cambridge. I am currently doing research about tech work and the tech industry funded by the William Wyse Scholarship. I am highly skilled in qualitative research, interviewing, and academic writing. Along with these skills from my academic training, I have also completed a data science course at Le Wagon, where I am trained in data science, machine learning, and deep learning. 
+- 🔭 I am a Ph.D. candidate in Social Anthropology at the University of Cambridge (https://www.socanth.cam.ac.uk/staff/xin-zhan-2020). I am currently doing research about tech work and the tech industry funded by the William Wyse Scholarship. I am highly skilled in qualitative research, interviewing, and academic writing. Along with these skills from my academic training, I have also completed a data science course at Le Wagon, where I am trained in data science, machine learning, and deep learning. 
 
 My research is an attempt to build a bridge of understanding between the tech and the non-tech world. I am hoping to create an intersection where technology meets anthropology. What could be the combination of making software and studying people? I am trying to find out and looking for people to join me.
 
