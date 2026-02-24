@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xin Zhan</h1>
-<h3 align="center">A social anthropologist and a data scientist</h3>
+<h3 align="center">A social anthropologist</h3>
 
-- 🔭 I am a Ph.D. candidate in Social Anthropology at the University of Cambridge (https://www.socanth.cam.ac.uk/staff/xin-zhan-2020). I am currently doing research about tech work and the tech industry funded by the William Wyse Scholarship. I am highly skilled in qualitative research, interviewing, and academic writing. Along with these skills from my academic training, I have also completed a data science course at Le Wagon, where I am trained in data science, machine learning, and deep learning. 
+- 🔭 I am a Teaching Associate in the Sociology of Media and Culture at the University of Cambridge. My research examines how emerging computational technologies reshape subjectivity and technologies of the self.
 
-My research interests include: technology for good, AI ethics, digital inclusion, job creation, augmented workforce, human-machine collaboration and job quality improvement.
+My current book project, Coding Future: Coders, Capitalism, and the Tech Dream—based on her doctoral ethnographic research—offers an account of coding as a medium of aspirational self-making among individuals structurally excluded from formal education and employment. The book addresses the question: What does it mean to program not only computer code, but also one’s own future?
+
+My postdoctoral research project, Beyond the Couch: The Emerging Intimacies of AI Therapy, investigates the forms of “auto-intimacy” fostered through chatbot companionship and AI mental health interventions. Taken together, these projects trace how digital technologies mediate both the pursuit of futures and the cultivation of selfhood.
 
 - 📫 How to reach me **xz434@cam.ac.uk**
 
